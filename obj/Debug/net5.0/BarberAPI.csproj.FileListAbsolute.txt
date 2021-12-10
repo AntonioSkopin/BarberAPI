@@ -26,3 +26,14 @@
 /Users/antonio/Desktop/C#/BarberAPI/obj/Debug/net5.0/ref/BarberAPI.dll
 /Users/antonio/Desktop/C#/BarberAPI/obj/Debug/net5.0/BarberAPI.pdb
 /Users/antonio/Desktop/C#/BarberAPI/obj/Debug/net5.0/BarberAPI.genruntimeconfig.cache
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/Npgsql.dll
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/Humanizer.dll
+/Users/antonio/Desktop/C#/BarberAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
