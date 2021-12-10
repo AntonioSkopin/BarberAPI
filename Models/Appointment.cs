@@ -2,7 +2,7 @@ using System;
 
 namespace BarberAPI.Models
 {
-    class Appointment
+    public class Appointment
     {
         public Guid id { get; set; }
         public DateTime dateTime { get; set; }

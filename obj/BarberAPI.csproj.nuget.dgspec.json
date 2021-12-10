@@ -38,13 +38,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
             "NpgSql.EntityFrameworkCore.PostgreSQL.Design": {
               "target": "Package",
               "version": "[1.1.0, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[2.1.0, )"
+              "version": "[5.0.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

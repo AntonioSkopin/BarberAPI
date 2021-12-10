@@ -2,7 +2,7 @@ using System;
 
 namespace BarberAPI.Models
 {
-    class Client
+    public class Client
     {
         public Guid id { get; set; }
         public string fullname { get; set; }
